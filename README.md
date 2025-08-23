@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://promexpo.expoforum.ru/wp-content/uploads/2024/11/geoskan_logo_rgb-5-scaled.jpg" alt="Company 1" width="120" height="120" style="margin: 10px;">
   <img src="https://leader-id.storage.yandexcloud.net/organization_photo/476168/612161442c179515165793.png" alt="Company 2" width="120" height="120" style="margin: 10px;">
-  <img src="https://mospolytech.ru/upload/iblock/fcb/kp3ihapbo2qj8tzj50ml2xiiupbkub8r/Prikladnaya_robototekhnika.png" alt="Company 3" width="120" height="120" style="margin: 10px;">
+  <img src="https://static.insales-cdn.com/images/products/1/2115/969132099/AR_logo_color.png" alt="Company 3" width="120" height="120" style="margin: 10px;">
   <img src="https://static.tildacdn.com/tild6637-6362-4665-b161-613764303539/7_logo_klimov.png" alt="Company 4" width="120" height="120" style="margin: 10px;">
 </div>
 <!--
