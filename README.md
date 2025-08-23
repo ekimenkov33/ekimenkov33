@@ -5,7 +5,7 @@
     <h4 align="center" style="margin-bottom: 20px; color: #2c3e50;"><strong>I have won in the tracks of these companies:</strong></h4>
     
     <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-        <img src="https://github.com/ekimenkov33/pictures/blob/master/geo.png?raw=true" alt="Geoscan" width="110" height="110" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease; object-fit: contain; background: white; padding: 8px;">
+<img src="https://github.com/ekimenkov33/pictures/blob/master/geo.png?raw=true" alt="Geoscan" width="110" height="110" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease; object-fit: contain; background: white; padding: 8px;">
         <img src="https://github.com/ekimenkov33/pictures/blob/master/app.png?raw=true" alt="Company 2" width="110" height="110" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease; object-fit: contain; background: white; padding: 8px;">
         <img src="https://github.com/ekimenkov33/pictures/blob/master/odk.png?raw=true" alt="Company 3" width="110" height="110" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease; object-fit: contain; background: white; padding: 8px;">
         <img src="https://static.tildacdn.com/tild6637-6362-4665-b161-613764303539/7_logo_klimov.png" alt="Company 4" width="110" height="110" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease; object-fit: contain; background: white; padding: 8px;">
