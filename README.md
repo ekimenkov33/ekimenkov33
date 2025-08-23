@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=12F78F&background=FFFFFF00&center=true&width=457&height=100&lines=Alfa+Romeo+Giulia" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/2c/7e/c8/2c7ec8a0b8775ce0722d69acbfdcebc1.jpg" alt="Alfa Romeo Giulia" width="500">
+  <img src="https://i.pinimg.com/originals/86/b4/0a/86b40a0306f5187123c3f1a5c1bbe4ca.png" alt="Alfa Romeo Giulia" width="500">
 </div>
 <!--
 **ekimenkov33/ekimenkov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
