@@ -2,6 +2,9 @@
 <h1 align="center">Hi there, I'm Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Student of MTUCI from Russia, medalist and winner of all-Russian robotics competitions 🇷🇺</h3>
+<div align="center">
+  ![Robotics]([https://your-image-url.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Group_Geoscan.svg/1200px-Group_Geoscan.svg.png))
+</div>
 <!--
 **ekimenkov33/ekimenkov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
