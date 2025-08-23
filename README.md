@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, I'm Aleksandr</h1>
-<h3 align="center">Student of MTUCI from Russia, medalist and winner of all-Russian robotics competitions <strong>RU</strong></h3>
 
+
+<h1 align="center">Hi there, I'm Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of MTUCI from Russia, medalist and winner of all-Russian robotics competitions 🇷🇺</h3>
 
 
 <!--
