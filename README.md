@@ -6,7 +6,7 @@
     <h4 align="center"><strong>I have won in the tracks of these companies:</strong></h4>
     
     <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-        <img src="https://github.com/ekimenkov33/pictures/blob/master/geo.png?raw=true" alt="Geoscan" width="100" height="100">
+<img src="https://github.com/ekimenkov33/pictures/blob/master/geo.png?raw=true" alt="Geoscan" width="100" height="100">
     <img src="https://github.com/ekimenkov33/pictures/blob/master/app.png?raw=true" alt="Company 2" width="100" height="100">
     <img src="https://github.com/ekimenkov33/pictures/blob/master/odk.png?raw=true" alt="Company 3" width="100" height="100">
     <img src="https://static.tildacdn.com/tild6637-6362-4665-b161-613764303539/7_logo_klimov.png" alt="Company 4" width="100" height="100">
