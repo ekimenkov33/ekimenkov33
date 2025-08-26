@@ -3,11 +3,12 @@
 
 <h3 align="center">MTUCI student, medalist and winner of all-Russian robotics competitions     🇷🇺</h3>
 
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=12F78F&background=FFFFFF00&center=true&width=457&height=100&lines=Alfa+Romeo+Giulia" alt="Typing SVG" /></a>
+  <img src="https://github.com/ekimenkov33/pictures/blob/master/alfa.png?raw=true" width="200">
 </div>
 <div align="center">
-  <img src="https://github.com/ekimenkov33/pictures/blob/master/alfa.png?raw=true" width="350">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=12F78F&background=FFFFFF00&center=true&width=457&height=100&lines=Alfa+Romeo+Giulia" alt="Typing SVG" /></a>
 </div>
 <!--
 **ekimenkov33/ekimenkov33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
