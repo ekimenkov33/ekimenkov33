@@ -19,12 +19,12 @@
     <br>
     <table>
       <tr>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2541_page-0001.jpg" width="350" alt="Diploma 1"></td>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg" width="350" alt="Diploma 2"></td>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Архипелаг2024_1место-1.png" width="350" alt="Diploma 3"></td>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/НТО_page-0001.jpg" width="350" alt="Diploma 4"></td>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2538_page-0001.jpg" width="350" alt="Diploma 5"></td>
-        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Сертификат_ИТ_компетенций_форма_1_page-0001.jpg" width="350" alt="Diploma 5"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2541_page-0001.jpg" width="400" alt="Diploma 1"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg" width="400" alt="Diploma 2"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Архипелаг2024_1место-1.png" width="400" alt="Diploma 3"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/НТО_page-0001.jpg" width="400" alt="Diploma 4"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2538_page-0001.jpg" width="400" alt="Diploma 5"></td>
+        <td><img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Сертификат_ИТ_компетенций_форма_1_page-0001.jpg" width="400" alt="Diploma 5"></td>
       </tr>
     </table>
   </details>
