@@ -22,14 +22,17 @@
 </table>
 <hr>
 
-<table>
+<<hr>
+
+<table border="0" width="100%">
   <tr>
-    <td valign="middle">
+    <!-- ЛЕВАЯ КОЛОНКА (текст и дипломы) -->
+    <td valign="middle" width="75%">
       <h3>Achievements</h3>
       <details>
         <summary><b>My diplomas and achievements (Click to open)</b></summary>
         <br>
-        <!-- Убрали width="100%", чтобы таблица не растягивалась на весь экран -->
+        <!-- Внутренняя таблица без ширины, чтобы дипломы стояли плотно -->
         <table>
           <tr>
             <td align="center" valign="top">
@@ -56,11 +59,10 @@
         </table>
       </details>
     </td>
-  </tr>
-</table>
-    </td>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achvements">
+
+    <!-- ПРАВАЯ КОЛОНКА (картинка) -->
+    <td width="25%" align="center" valign="middle">
+      <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achievements">
     </td>
   </tr>
 </table>
