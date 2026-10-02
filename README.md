@@ -1,5 +1,5 @@
 <h1 align="center">Ekimenkov Aleksandr
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/ekimenkov33/pi](https://github.com/ekimenkov33/pictures/blob/master/IMG_3007.JPG"></h1>
 
 <h3 align="center">MTUCI student, medalist and winner of all-Russian robotics competitions     🇷🇺</h3>
 
