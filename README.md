@@ -57,7 +57,7 @@
       </details>
     </td>
     <!-- ПРАВАЯ КОЛОНКА (картинка) -->
-    <td width="25%" align="center" valign="middle">
+    <td width="25%" align="right" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achievements">
     </td>
   </tr>
