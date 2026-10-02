@@ -20,41 +20,44 @@
     </td>
   </tr>
 </table>
-
 <hr>
 
-<table border="0" width="100%">
+<table>
   <tr>
-    <td width="70%" valign="middle">
+    <td valign="middle">
       <h3>Achievements</h3>
       <details>
         <summary><b>My diplomas and achievements (Click to open)</b></summary>
         <br>
-        <table border="0" width="100%">
+        <!-- Убрали width="100%", чтобы таблица не растягивалась на весь экран -->
+        <table>
           <tr>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2541_page-0001.jpg?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 1">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2541_page-0001.jpg?raw=true" width="200" alt="Diploma 1">
             </td>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 2">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg?raw=true" width="200" alt="Diploma 2">
             </td>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Архипелаг2024_1место-1.png?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 3">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Архипелаг2024_1место-1.png?raw=true" width="200" alt="Diploma 3">
             </td>
           </tr>
           <tr>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/НТО_page-0001.jpg?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 4">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/НТО_page-0001.jpg?raw=true" width="200" alt="Diploma 4">
             </td>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2538_page-0001.jpg?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 5">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2538_page-0001.jpg?raw=true" width="200" alt="Diploma 5">
             </td>
-            <td align="center" valign="top" width="33%">
-              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Сертификат_ИТ_компетенций_форма_1_page-0001.jpg?raw=true" width="20%" style="max-width: 200px;" alt="Diploma 6">
+            <td align="center" valign="top">
+              <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/Сертификат_ИТ_компетенций_форма_1_page-0001.jpg?raw=true" width="200" alt="Diploma 6">
             </td>
           </tr>
         </table>
       </details>
+    </td>
+  </tr>
+</table>
     </td>
     <td width="15%" align="center" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achvements">
