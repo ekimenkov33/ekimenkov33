@@ -68,7 +68,8 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg?raw=true" width="100%" style="max-width: 250px;" alt="Контакты">
+      <img src="https://github.com/ekimenkov33/pictures/blob/master/contaccts.PNG" width="100%" style="max-width: 250px;" alt="Contacts">
+    </td>
     </td>
     <td width="70%" valign="middle">
       <h3> Contacts</h3>
