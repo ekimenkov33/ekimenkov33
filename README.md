@@ -56,7 +56,7 @@
         </table>
       </details>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="15%" align="center" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achvements">
     </td>
   </tr>
