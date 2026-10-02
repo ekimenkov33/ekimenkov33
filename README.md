@@ -10,7 +10,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/ekimenkov33/pictures/blob/master/ser.JPG" width="100%" style="max-width: 250px;" alt="Project 1">
+      <img src="https://github.com/ekimenkov33/pictures/blob/master/ser-no-bg-preview%20(carve.photos).png" width="100%" style="max-width: 250px;" alt="Project 1">
     </td>
     <td width="70%" valign="middle">
       <h3> About me and my studies at MTUCI</h3>
