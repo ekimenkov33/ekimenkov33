@@ -15,7 +15,7 @@
     <td width="70%" valign="middle">
       <h3> About me and my studies at MTUCI</h3>
       <p>
-        I am a student at MTUSI. I am actively involved in the development and design of robotic systems, programming microcontrollers, and autonomous control algorithms. I am studying in the field of “AI Engineering.”
+        I am a student at MTUCI. I am actively involved in the development and design of robotic systems, programming microcontrollers, and autonomous control algorithms. I am studying in the field of “AI Engineering.”
       </p>
     </td>
   </tr>
