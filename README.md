@@ -6,24 +6,22 @@
 
 <br>
 
-<!-- БЛОК 1: Картинка СЛЕВА, Текст СПРАВА -->
+<!-- БЛОК 1: Обо мне (Картинка СЛЕВА, Текст СПРАВА) -->
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/ser-no-bg-preview%20(carve.photos).png" width="100%" style="max-width: 250px;" alt="Project 1">
     </td>
     <td width="70%" valign="middle">
-      <h3> About me and my studies at MTUCI</h3>
-      <p>
-        I am a student at MTUCI. I am actively involved in the development and design of robotic systems, programming microcontrollers, and autonomous control algorithms. I am studying in the field of “AI Engineering.”
-      </p>
+      <h3>About me and my studies at MTUCI</h3>
+      <p>I am a student at MTUCI. I am actively involved in the development and design of robotic systems, programming microcontrollers, and autonomous control algorithms. I am studying in the field of “AI Engineering.”</p>
     </td>
   </tr>
 </table>
-<hr>
 
 <hr>
 
+<!-- БЛОК 2: Достижения (Текст СЛЕВА, Картинка СПРАВА) -->
 <table border="0" width="100%">
   <tr>
     <!-- ЛЕВАЯ КОЛОНКА (текст и дипломы) -->
@@ -32,7 +30,6 @@
       <details>
         <summary><b>My diplomas and achievements (Click to open)</b></summary>
         <br>
-        <!-- Внутренняя таблица без ширины, чтобы дипломы стояли плотно -->
         <table>
           <tr>
             <td align="center" valign="top">
@@ -59,7 +56,6 @@
         </table>
       </details>
     </td>
-
     <!-- ПРАВАЯ КОЛОНКА (картинка) -->
     <td width="25%" align="center" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/dost.PNG" width="100%" style="max-width: 200px;" alt="Achievements">
@@ -75,12 +71,9 @@
     <td width="30%" align="center" valign="middle">
       <img src="https://github.com/ekimenkov33/pictures/blob/master/contaccts.PNG" width="100%" style="max-width: 250px;" alt="Contacts">
     </td>
-    </td>
     <td width="70%" valign="middle">
-      <h3> Contacts</h3>
-      <p>
-       Always open to collaboration, engineering projects, and interesting challenges!
-      </p>
+      <h3>Contacts</h3>
+      <p>Always open to collaboration, engineering projects, and interesting challenges!</p>
       <br>
       <a href="mailto:alex.ekimenkov@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -92,7 +85,3 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-
