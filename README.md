@@ -77,7 +77,7 @@
        Always open to collaboration, engineering projects, and interesting challenges!
       </p>
       <br>
-      <a href="mailto:ale.ekimenkov@gmail.com">
+      <a href="mailto:alex.ekimenkov@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
       </a>
       &nbsp;
