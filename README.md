@@ -68,20 +68,25 @@
 <table border="0" width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/ekimenkov33/pictures/blob/master/contaccts.PNG" width="100%" style="max-width: 250px;" alt="Контакты">
+      <img src="https://github.com/ekimenkov33/ekimenkov33/blob/master/IMG_2540_page-0001.jpg?raw=true" width="100%" style="max-width: 250px;" alt="Контакты">
     </td>
     <td width="70%" valign="middle">
-      <h3>📫 Contacts</h3>
+      <h3> Contacts</h3>
       <p>
-        Всегда открыт к сотрудничеству, инженерным проектам и интересным задачам!
+       Always open to collaboration, engineering projects, and interesting challenges!
       </p>
-      <p>
-        <b>Telegram:</b> <a href="https://t.me/ikm4n">ikm4n</a><br>
-        <b>Email:</b> <a href="mailto:alex.ekimenkov@gmail.com">alex.ekimenkov@gmail.com</a><br>
-        <b>GitHub:</b> <a href="https://github.com/ekimenkov33">ekimenkov33</a>
-      </p>
+      <br>
+      <a href="mailto:ale.ekimenkov@gmail.com">
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+      &nbsp;
+      <a href="https://t.me/ikm4n">
+        <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
     </td>
   </tr>
 </table>
 
 <hr>
+
+
